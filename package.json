@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "App.test.js",
+    "test": "react-scripts test",
     "start": "nodemon backend/server.js"
   },
   "author": "",
