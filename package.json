@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "run all tests",
+    "test": "jest",
     "start": "nodemon backend/server.js"
   },
   "author": "",
